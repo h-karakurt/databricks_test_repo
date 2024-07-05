@@ -6,3 +6,7 @@
 
 # MAGIC %md
 # MAGIC Hello World
+
+# COMMAND ----------
+
+Hello again
